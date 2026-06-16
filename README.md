@@ -1,5 +1,5 @@
-Overview
-Simple Quiz App is a straightforward, interactive Android application designed to test a user's knowledge on fundamental Android development concepts. Users can navigate through a series of "Yes or No" questions, check the correct answers, and calculate their final score at the end of the quiz.
+Overview:
+Simple Quiz App is an interactive Android application developed as a university assignment. The primary objective of this coursework project is to build a straightforward quiz interface consisting of exactly 5 "Yes or No" questions to test fundamental Android development concepts.
 
 Features:
 - Interactive Quiz Flow: Navigate sequentially through questions using the Next button.
